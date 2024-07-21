@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
-}
+  siteMetadata: {
+    title: "Gatsby template",
+    description: "Template with gatsby",
+    copyright: "This website is copyright 2024",
+  },
+};
